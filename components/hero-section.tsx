@@ -64,7 +64,7 @@ export default function HeroSection() {
               {/* Profile image with border */}
               <div className="relative w-[280px] h-[280px] md:w-[320px] md:h-[320px] lg:w-[380px] lg:h-[380px] rounded-full overflow-hidden border-4 border-white shadow-xl">
                 <Image
-                  src="/81cf0892-b39a-4b91-b72e-37b66c3b75fb.JPG?height=400&width=400"
+                  src="/81cf0892-b39a-4b91-b72e-37b66c3b75fb.JPG"
                   alt="Donát Treszler"
                   width={400}
                   height={400}
