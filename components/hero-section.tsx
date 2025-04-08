@@ -48,7 +48,7 @@ export default function HeroSection() {
                 className="border-theme-purple text-theme-purple hover:bg-theme-purple/10"
                 asChild
               >
-                <a href="/resume.pdf" download>
+                <a href="/CV_Donat_Treszler.pdf" download>
                   <Download className="mr-2 h-4 w-4" />
                   Download Resume
                 </a>

@@ -32,6 +32,8 @@ export default function ProjectsPage() {
       title: "Portfolio Website",
       description: "A responsive portfolio website built with modern web technologies to showcase projects and skills.",
       technologies: ["Next.js", "Tailwind CSS", "TypeScript"],
+      liveUrl: "https://cv.ralle001.xyz",
+      githubUrl: "https://github.com/Ralle001/portfolio",
       featured: false,
       color: "from-theme-teal to-theme-lightblue",
     },
